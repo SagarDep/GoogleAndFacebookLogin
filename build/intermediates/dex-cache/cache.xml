@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_375fa7da50e7b0d1e59eb89fd3803a6f3c4244dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_5ba5869b9af91ef61c92017a8b9c8d422b5d9913/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_421fc456a532cd36e7e80aa9afd84219a2d1cb4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.2_db5e26e48722cf2a79f4167527f2d0675bdf00ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_3d5407df25198883bb0c5bb49cb470920e494e31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.2_c8c62f8641c60b56f55d969bece2cced3d8a2781/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.2_0417b2c319ea549f3b3d6f2fe7de49d2b28374f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.2_186598bb0721d68e2be70e3a1ad688affe420ae9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_0be0060fc366c13e63365cf1d106cd96744677de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_ed27bd46dc0e6c71778ef1924ddf89370ec96ea3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_e7d4104f0095378a5d6773a22d44fa446c9b7b02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_0a5389ef952fc979a6b3fc9aba75f4ee1c803b6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_f43eff7284aeb1b577d963267b9baa9964c85e0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_bffc8c147f6974aaec1b0046ec838fe7d2d64d97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.5.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="15ad6a46fb8e2ed86556e0b330d738b589dc62c7">
+        <dex dex="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.5.0_cb6b944c3ae036e38fca47a60a2b885391fc583b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-android-1.2.0_a22fc32bee8e0b1418d837e2d854be9362812aa5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_ec9a6e15593d536434aa0dea7838892aaaac6231/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="226af5ac65148d1e9ab585fee64dcdf533ffb121">
+        <dex dex="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_459ab8df739601b3aa58933dacc0e6df12badf17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.2_5ce4c5cce0304ee8bd3d13fb786788e454e57d46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_1b1cb3fcb4216082912d2a606ced4b0534ad3ab0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_5f1f605bec44e66b150664ce77c156d7398ebf28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.0.2_5764ca021dcfb6203f9b65583df6f5d94048b151/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_ad940e997956546cf6fec27989293e341ab68cc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.0.2_6e7465d778f065f1159f3952371472a095cabec9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.2_90e070c9b17232fb587b323ac459104a40fa0d30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6589eef2ec09faf93f5edad9bb78e0708a822d1c">
+        <dex dex="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1ce413c65235b9e1e10f34c2fab610f063c16a50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.0.2_76f5d7dd2b00074c59b0ad052fd169fc14cdd3cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_ec82fc8e896386e6105e3922e525a39d65a4a61d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_c97e8642b8e619a78ae8d95fa4f27481de5206f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="/home/putuguna/AndroidStudioProjects/GoogleLoginTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.2_07a9d9f9c2cc5238359a6017199c093c91442ba1/classes.dex" />
+    </item>
+
+</items>

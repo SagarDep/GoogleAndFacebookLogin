@@ -1,0 +1,52 @@
+{
+  "project_info": {
+    "project_number": "1006153522188",
+    "project_id": "emerald-energy-155004"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006153522188:android:aba1ea7e1c2c5746",
+        "android_client_info": {
+          "package_name": "com.androidbie.googlelogintutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006153522188-vf17e48648n1oqolri9arim9q1pu7aof.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidbie.googlelogintutorial",
+            "certificate_hash": "413F69532F500B206EEABA3CE951CC781C173075"
+          }
+        },
+        {
+          "client_id": "1006153522188-8v6hc4fsq3f1l58dsub65072vqnkv1ah.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1006153522188-p7avgi4f1cqqv5lc854vaptnp00sf4jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC7R6p4PKjedI2pqxQnyMZu2MKy-HUoVY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
